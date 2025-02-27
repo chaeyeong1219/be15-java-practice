@@ -22,4 +22,5 @@ public class Application5 {
         System.out.println("정렬 된 단어 : " + words);
         sc.close();
     }
+
 }
