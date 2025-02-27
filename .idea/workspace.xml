@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e6a9bf8-281a-48ec-94a6-6815614eeda3" name="변경" comment="collection 실습과제 제출">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="0e6a9bf8-281a-48ec-94a6-6815614eeda3" name="변경" comment="collection 실습과제 파일수정">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lddocy/level01/basic/Application6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +34,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="보안 분석" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2tc2dKokU01SXAH3XpOkpTKhl0w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,6 +57,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yunchaeyeong/Documents/lecture/practice/chap13-collection-practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,18 +75,6 @@
       <recent name="com.lddocy.level01.basic" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740637131362</updated>
-      <workItem from="1740637132449" duration="10497000" />
+      <workItem from="1740637132449" duration="10766000" />
+      <workItem from="1740648267372" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="collection 실습과제 제출">
       <option name="closed" value="true" />
@@ -120,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740647931080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="collection 실습과제 코드수정">
+      <option name="closed" value="true" />
+      <created>1740648043187</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740648043187</updated>
+    </task>
+    <task id="LOCAL-00004" summary="collection 실습과제 파일수정">
+      <option name="closed" value="true" />
+      <created>1740648062997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740648062997</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="collection 실습과제 제출" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection 실습과제 제출" />
+    <MESSAGE value="collection 실습과제 코드수정" />
+    <MESSAGE value="collection 실습과제 파일수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection 실습과제 파일수정" />
   </component>
 </project>

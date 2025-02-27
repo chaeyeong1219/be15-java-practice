@@ -32,5 +32,4 @@ public class Application3 {
 
         sc.close();
     }
-
 }

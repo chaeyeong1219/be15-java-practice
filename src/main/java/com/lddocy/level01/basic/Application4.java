@@ -27,5 +27,4 @@ public class Application4 {
         System.out.println("모든 학생의 ID : " + students);
         sc.close();
     }
-
 }
