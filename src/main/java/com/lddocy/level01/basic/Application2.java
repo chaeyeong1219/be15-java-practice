@@ -8,7 +8,7 @@ public class Application2 {
         Queue<String> urlQueue = new LinkedList<>();
 
         String input = "";
-        while (input != "exit") {
+        while (!input.equals("exit")) {
             System.out.print("방문 url을 입력하세요 (단, exit을 입력하면 종료) : ");
             input = sc.nextLine();
 

@@ -1,6 +1,5 @@
 package com.lddocy.level01.basic;
 
-import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.TreeSet;
 
